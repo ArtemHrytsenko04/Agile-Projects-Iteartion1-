@@ -1,2 +1,5 @@
 # Agile-Projects-Iteartion1-
-Iteration 1 for Agile Projects (Group Cell)
+
+This repository was created to keep track of any changes during Agile Project course for Group Cell. 
+
+
