@@ -47,6 +47,8 @@ Create GitHub repository, connect to local Git repository
 | Begin work on stakeholder register                   | All members of Cell | End of week 2 |
 | Upload work in current state to github               | Rhys                | End of week 2 |
 
+____
+
 | Agenda Item 2: | Discuss/Complete stakeholder register | Presenter: | Rhys |
 |----------------|---------------------------------------|------------|------|
 
