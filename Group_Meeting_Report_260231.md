@@ -12,7 +12,7 @@ Group Meeting Report
 | **Attendees:**    | Artem Hrytsenko, Rhys Bates, Terrence Charamba                |                |            |
 | **Absent:**       | -                                                             |                |            |
 | **Please bring:** | Laptop, Light Lunch                                           |                |            |
-| **Agenda items:** | Discuss first iteration Discuss, Complete stakeholder register |                |            |
+| **Agenda items:** | Discuss first iteration, Discuss/Complete stakeholder register |                |            |
 
 # Minutes
 
