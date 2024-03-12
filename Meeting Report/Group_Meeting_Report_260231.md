@@ -12,7 +12,7 @@ Group Meeting Report
 | **Attendees:**    | Artem Hrytsenko, Rhys Bates, Terrence Charamba                |                |            |
 | **Absent:**       | -                                                             |                |            |
 | **Please bring:** | Laptop, Light Lunch                                           |                |            |
-| **Agenda items:** | Discuss first iteration Discuss/complete stakeholder register |                |            |
+| **Agenda items:** | Discuss first iteration, Discuss/complete stakeholder register |                |            |
 
 # Minutes
 
@@ -21,9 +21,9 @@ Group Meeting Report
 
 #### Discussion:
 
-Researched meaning of iteration in this case (referred to pdf provided by Noor)
+Research the meaning of iteration in this case (referred to pdf provided by Noor)
 
-Explored collaborative workspaces to streamline this process
+Explore collaborative workspaces to streamline this process
 
 Explore creating a discord server, to streamline communication
 
@@ -52,11 +52,11 @@ Create GitHub repository, connect to local Git repository
 
 #### Discussion:
 
-Identified internal/external stakeholders
+Identify internal/external stakeholders
 
-Assigned roles to members of Cell
+Assign roles to members of Cell
 
-Identified requirements and types of communication for each concerned stakeholder
+Identify requirements and types of communication for each concerned stakeholder
 
 #### Conclusions:
 
@@ -64,7 +64,7 @@ Stakeholder registration for Iteration 1 filled out accordingly
 
 | Action items                                           | Person responsible | Deadline                     |
 |--------------------------------------------------------|--------------------|------------------------------|
-| Upload to git                                          | Rhys               | End of week 2                |
+| Fill out and upload completed document to github                                          | Rhys               | End of week 2                |
 | Confirm roles/communications etc with each stakeholder | Terrence           | End of Today                 |
 | Involve sponsor with finalization of register          | Artem              | End of Thursday (29/02/2024) |
 
