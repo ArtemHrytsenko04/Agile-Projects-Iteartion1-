@@ -48,7 +48,7 @@ Iteration 3 summary
 
 - **Risk Register**. We developed a comprehensive risk register to identify, assess, and manage potential risks that may arise during the project. Each risk was assigned a likelihood and impact rating, and appropriate mitigation strategies were documented.
 - **User Acceptance Testing**. We conducted thorough user acceptance testing (UAT) to ensure the final product meets the requirements and expectations of the end-users. Test scenarios and cases were created, and feedback was collected and analyzed to make necessary adjustments.
--**Web Hosting of Documents**. We set up web hosting to securely store and share project documents. This allows for easy access and collaboration among team members and stakeholders, ensuring that everyone has the most up-to-date information.
+- **Web Hosting of Documents**. We set up web hosting to securely store and share project documents. This allows for easy access and collaboration among team members and stakeholders, ensuring that everyone has the most up-to-date information.
 
 **Below you'll** find the table of content and links to all the files we were working on. 
 
