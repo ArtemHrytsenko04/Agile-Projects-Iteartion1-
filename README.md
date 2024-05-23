@@ -37,7 +37,7 @@ During this iteration we primarily focused on the resource allocation and planni
 | Iteration 2 Progress Report | [Iteration 2 Progress Report](https://github.com/ArtemHrytsenko04/Agile-Projects-Iteartion1-/tree/main/Iteration%202) |
 | Iteration 2 Task Allocation (GitHub) | [Task Allocation Board](https://github.com/ArtemHrytsenko04/Agile-Projects-Iteartion1-/issues)
 | Iteration 2 Resource needs | [Resource Needs](https://github.com/ArtemHrytsenko04/Agile-Projects-Iteartion1-/tree/main/Iteration%202) |
-| Iteration 2 Gantt Chart | [Gantt Chart](https://github.com/ArtemHrytsenko04/Agile-Projects-Iteartion1-/tree/main/Iteration%202) |
+| Iteration 2 Gantt Chart | [Gantt Chart](https://github.com/ArtemHrytsenko04/Agile-Projects-Iteartion1-/blob/main/Iteration%202/Agile_Gantt_chart.xlsx) |
 | Iteration 2 Meeting Report | [Meeting Report 2](https://github.com/ArtemHrytsenko04/Agile-Projects-Iteartion1-/tree/main/Iteration%202) |
 
 ___
