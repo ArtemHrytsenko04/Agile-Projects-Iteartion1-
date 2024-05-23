@@ -57,7 +57,7 @@ Iteration 3 summary
 | Iteration 3 (link) | [Iteration 3](https://github.com/ArtemHrytsenko04/Agile-Projects-Iteartion1-/tree/main/Iteration%203) |
 | Iteration 3 Progress Report | [Iteration 3 Progress Report](https://github.com/ArtemHrytsenko04/Agile-Projects-Iteartion1-/blob/main/Iteration%203/Progress%20Report%203%20(Cell).docx) |
 | Iteration 3 Risk Register | [Risk Register](https://github.com/ArtemHrytsenko04/Agile-Projects-Iteartion1-/blob/main/Iteration%203/risk_register.docx) |
-| Iteration 3 User Acceptance Testing | [User Acceptance Testing](https://github.com/ArtemHrytsenko04/Agile-Projects-Iteartion1-/tree/main/Iteration%203) |
+| Iteration 3 User Acceptance Testing | [User Acceptance Testing](https://github.com/ArtemHrytsenko04/Agile-Projects-Iteartion1-/blob/main/Iteration%203/UAT.md) |
 | Iteration 3 Web Hosting Documents | [Web Hosting Documents](https://github.com/ArtemHrytsenko04/Agile-Projects-Iteartion1-/tree/main/docs) |
 | Iteration 3 Meeting Report | [Meeting Report 3](https://github.com/ArtemHrytsenko04/Agile-Projects-Iteartion1-/blob/main/Iteration%203/Group%20meeting%20report%203.docx) |
 
