@@ -1,10 +1,8 @@
 # User Acceptance Testing (UAT)
 
-**When:** 03/06/2021 09:00 AM  
+**When:** 24/05/2024 09:00 AM  
 **Who:** Cell  
 **Application:** E-Commerce Website (Smart Watch)  
-
-**Note:** Please make sure you fill all information related to your project below and convert/include link to Wiki or README.md (GitHub).
 
 ## Test Scenarios
 
