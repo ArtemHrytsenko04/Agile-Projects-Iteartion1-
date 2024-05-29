@@ -64,7 +64,7 @@ Iteration 3 summary
 ___
 
 ## Link to our website
-artemhrytenko04.github.io/Agile-Projects-Iteartion1-/index.html
+[Timups](https://artemhrytsenko04.github.io/Agile-Projects-Iteartion1-/index.html)
 
 
 
